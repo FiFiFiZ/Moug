@@ -1,5 +1,6 @@
 TO THE READER: This is just a brainstorming document, it's not particularly well-written as it's mostly notes to self, but I thought it would be interesting for whoever wants to know about the thinking process.
 
+
 removing screen.fill to give a solitaire effect
 
 tiled background moving then fading to black when starting
