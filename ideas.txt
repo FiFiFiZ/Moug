@@ -6,3 +6,8 @@ removing screen.fill to give a solitaire effect
 tiled background moving then fading to black when starting
 initial play button is white text "moug" that inverts into the initial player circle with the text becoming black
 juicy sound effects, with bitcrushed vocals like in ghb, "MOUG!" repeating from low pitched to high pitched at the start 
+
+color palette, speed vector fading out when becoming harder
+
+little challenges where it turns into "avoid color"
+minigame based levels?

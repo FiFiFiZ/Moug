@@ -6,9 +6,7 @@ from math import*
 class Assets:
     def __init__(self):
         # Load Images
-        self.sprites = {
-            
-        }
+        self.sprites = {}
 
     def load_assets(self):
         self.SCREEN_WIDTH = 300
@@ -19,7 +17,8 @@ class Assets:
             ("circle", "keep_transparency"),
             ("blank", "keep_transparency"),
             ("pixel", ""),
-            ("arrow", "keep_transparency")
+            ("arrow", "keep_transparency"),
+            ("square", "")
         ]  # names with special second (or more) item get special treatment in loading (like loading both 0 and 1 name-ending variants)
 
         for i in range (len(to_load)):
