@@ -18,7 +18,8 @@ class Assets:
             ("blank", "keep_transparency"),
             ("pixel", ""),
             ("arrow", "keep_transparency"),
-            ("square", "")
+            ("square", ""),
+            ("square_path", "")
         ]  # names with special second (or more) item get special treatment in loading (like loading both 0 and 1 name-ending variants)
 
         for i in range (len(to_load)):

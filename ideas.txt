@@ -11,3 +11,5 @@ color palette, speed vector fading out when becoming harder
 
 little challenges where it turns into "avoid color"
 minigame based levels?
+
+adding things to a list to blit on different layers
